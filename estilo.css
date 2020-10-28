@@ -1,0 +1,213 @@
+.titulo
+{
+	text-align: center;
+}
+
+.fondo
+{
+	position: absolute;
+	background-color: black;
+	width: 60%;
+	height: 60%;
+	left: 20%;
+}
+
+.linea
+{
+	position: absolute;
+	background-color: white;
+	width: 98%;
+	height: 1%;
+	top: 60%;
+	left: 1%;
+}
+
+.bndai
+{
+	display: none;
+}
+
+.botoni
+{
+	display: none;
+}
+
+.botonv
+{
+	position: absolute;
+	left: 39%;
+	top: 25%;
+
+
+}
+
+.bndav
+{
+	position: absolute;
+	text-align: center;
+	width: 800px;
+	height: 600px;
+	left: 20%;
+	top: 4.3%;
+	background-color: pink;
+}
+
+.ab
+{
+	position: absolute;
+	text-align: center;
+	width: 800px;
+	height: 600px;
+	left: 20%;
+	top: 4.3%;
+	background-color: pink;
+	background-image: url(bnda.gif);
+}
+
+.v1v
+{
+	position: absolute;
+	width: 398px;
+	height: 138px;
+	top: 70%;
+}
+
+.a1q
+{
+	position: absolute;
+	width: 94px;
+	height: 122px;
+	background-image: url(quieto1.gif);
+	top: 68.9%;
+	left: 32%;
+}
+
+.aa1
+{
+	position: absolute;
+	width: 94px;
+	height: 122px;
+	background-image: url(aa1.gif);
+	top: 68.5%;
+	left: 32%;
+}
+
+.v2v
+{
+	position: absolute;
+	width: 398px;
+	height: 138px;
+	top: 70%;
+	right: -5.5%;
+}
+
+.a2q
+{
+	position: absolute;
+	width: 94px;
+	height: 122px;
+	background-image: url(quieto2.gif);
+	top: 68%;
+	right: 34%;
+}
+
+.aa2
+{
+	width: 94px;
+	height: 122px;
+	background-image: url(aa2.gif);
+	position: absolute;
+	top: 68%;
+	right: 34%;
+}
+
+.v3v
+{
+	position: absolute;
+	width: 398px;
+	height: 138px;
+	left: 40%;
+}
+
+.a3q
+{
+	position: absolute;
+	width: 48px;
+	height: 40px;
+	background-image: url(quieto3.gif);
+	top: 49%;
+	left: 44%;
+}
+
+.aa3
+{
+	width: 600px;
+	height: 168px;
+	background-image: url(aa3.gif);
+	position: absolute;
+	left: 7.5%;
+	top: 13%;
+}
+
+.v1i
+{
+	display: none;
+}
+
+.v2i
+{
+	display: none;
+}
+
+.v3i
+{
+	display: none;
+}
+
+.a1qi
+{
+	display: none;
+}
+
+.a2qi
+{
+	display: none;
+}
+
+.a2qi
+{
+	display: none;
+}
+
+.bf
+{
+	position: absolute;
+	top: 80%;
+	left: 40%;
+	
+}
+.fin{
+	position: absolute;
+	width: 450px;
+	height: 350px;
+	left: 33%;
+	top: 18.3%;
+	background-image: url(b3.png);
+}
+.fin:hover{
+	position: absolute;
+	width: 255px;
+	height: 260px;
+	left: 40%;
+	top: 25.3%;
+	background-image: url(2.png);
+}
+.de{
+	position: absolute;
+	width: 700px;
+	height: 90px;
+	left: 25%;
+	top: 70.3%;
+background-image: url(ps.png);
+}
+
